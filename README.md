@@ -1,2 +1,2 @@
 # Mips32_code
-Hope this helps you if you have any doubt on this topic, Open to any suggestions.
+The Assembly code takes input two arrays(of integers) of same size merges them into one, sorted in decending order.
