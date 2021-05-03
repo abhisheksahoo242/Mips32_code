@@ -1,10 +1,5 @@
-#Computer Architecture Assignment 1
 #Question - Q6. Write a program in C to merge two arrays of same size sorted in decending order
-#Note: We have assumed that the two input arrays maybe unsorted, and the final output array is sorted in decending order.
-#Team 12 - 
-# Abhishek Sahoo, CS19B1001
-# Mutyala Immaniyelu, CS19B1019
-
+#Note:   It is Assumed that the two input arrays maybe unsorted, and the final output array is sorted in decending order.
 
 .data
     space: .asciiz " "
